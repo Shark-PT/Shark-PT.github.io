@@ -1,0 +1,34 @@
+/* This is a CSS comment. Put your CSS styling below this line */
+body
+{
+  text-align: justified;
+  font-size: 20px;
+  background-color: lightgreen;
+  font-family: "Arial";
+}
+
+.army-images
+{
+border-color: blue;
+border-width: 5px;
+border-style: solid;
+border-radius: 5px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.fire{
+border-color: red;
+border-width: 7px;
+border-style: solid;
+border-radius: 10px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+footer
+{
+font-size: 10px;
+font-family: "Times New Roman";
+}
+footer
